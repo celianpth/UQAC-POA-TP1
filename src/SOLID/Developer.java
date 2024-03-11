@@ -1,5 +1,4 @@
-// Classe pour représenter un développeur
-
+package SOLID;
 class Developer extends Employee implements BonusRecipient {
     public Developer(String name, double salary) {
         super(name, salary);

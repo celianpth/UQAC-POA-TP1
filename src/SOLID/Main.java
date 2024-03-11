@@ -1,3 +1,5 @@
+package SOLID;
+
 // Classe principale pour tester les principes SOLID
 public class Main {
     public static void main(String[] args) {

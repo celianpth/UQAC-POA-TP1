@@ -1,5 +1,4 @@
-// Classe pour représenter un manager
-
+package SOLID;
 class Manager extends Employee implements BonusRecipient {
     public Manager(String name, double salary) {
         super(name, salary);
